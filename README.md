@@ -8,3 +8,7 @@ Other future goals include cloud-enabled accounts/directories, enabling users to
 
 **Current Release**
 The current release of noveraOS is a _Developer Preview_ intended to allow those interested in developing applications and games for the platform to begin to learn, and subsequently develop software with the included environments. noveraOS' Game Studio and App Studio includes an approachable Visual Scripting language, paired with a WYSIWYG designer, that enables developers of all skill levels to bring their vision to life.
+
+Visit releases to download and get started!
+
+https://github.com/KaurBel/noveraOS/releases/tag/DeveloperPreview
