@@ -1,5 +1,5 @@
 **Welcome to noveraOS**
-noveraOS is a full-feature operating environment, currently supported by Apple devices (Mac, iPhone and iPad), shipping with application suites for productivity and creativity. Games and/or Applications developed in Game Studio or Application Studio support all current and future releases, and will automatically comply with any system-wide design languages or features that are enabled down the road.
+noveraOS is a full-feature operating environment, currently supported by all major operating systems, shipping with application suites for productivity and creativity. Games and/or Applications developed in Game Studio or Application Studio support all current and future releases, and will automatically comply with any system-wide design languages or features that are enabled down the road.
 
 **Future**
 noveraOS is also being developed as a standalone operating system with a custom kernel, not Linux, that will bring the same power and control of noveraOS as an environment to any computer with a supported architecture.
