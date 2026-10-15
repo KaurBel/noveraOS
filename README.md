@@ -11,4 +11,4 @@ The current release of noveraOS is a _Developer Preview_ intended to allow those
 
 Visit releases to download and get started!
 
-https://github.com/KaurBel/noveraOS/releases/tag/DeveloperPreview
+https://github.com/KaurBel/noveraOS/releases
